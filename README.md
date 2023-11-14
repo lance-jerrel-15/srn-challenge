@@ -16,9 +16,8 @@ By: Lance Jerrel T. Bernardo
 6. [Moshi](https://github.com/square/moshi) - JSON library
 7. [Coil](https://coil-kt.github.io/coil/) - Image loading library (Coroutine Image Loader)
 8. [Retrofit](https://square.github.io/retrofit/) - type safe http client
-9. [Mockito](https://site.mockito.org/) - unit testing
-10. [Room](https://developer.android.com/jetpack/androidx/releases/room) - database library
-11. [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - load and display pages of data
+9. [Room](https://developer.android.com/jetpack/androidx/releases/room) - database library
+10. [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - load and display pages of data
 
 ## Main Folders
 - app contains applications
